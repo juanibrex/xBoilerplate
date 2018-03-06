@@ -5,7 +5,8 @@ Fork de [EDboilerplate](https://github.com/escueladigital/EDboilerplate) para la
 
 ## Modo de uso
 
-Ejecutar los siguientes comandos:
+Ejecutar los siguientes comandos en la consola:
 
 + `npm install` Para instalar todas las dependencias.
 + `gulp` Para comenzar a desarrollar.
++ `Ctrl + z` Para finalizar la tarea de Gulp.
